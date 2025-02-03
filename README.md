@@ -1,4 +1,4 @@
-# Mozilla Data Documentation
+## Mozilla Data Documentation
 
 [![Build Status](https://github.com/mozilla/data-docs/workflows/Build/badge.svg)](https://github.com/mozilla/data-docs/actions?query=workflow%3ABuild)
 
